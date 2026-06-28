@@ -1,0 +1,11 @@
+name: erekirlogic
+displayName: "ErekirLogic"
+subtitle: "Tap!"
+author: "Xenonix"
+description: "[RU]Данный мод добавляет логические блоки в Erekir.
+[ENG]This mod adds logic blocks to Erekir."
+version: "1.0"
+minGameVersion: "146"
+java: false
+hidden: false
+repo: Xenonixq/ErekirLogic
