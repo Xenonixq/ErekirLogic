@@ -1,0 +1,15 @@
+type: MemoryBlock
+category: logic
+research: erekirlogic-reinforced-memory_cell
+requirements: [
+  beryllium/30
+  graphite/80
+  silicon/80
+  phase-fabric/30
+]
+memoryCapacity: 512
+squareSprite: false
+health: 200
+size: 2
+planet: erekir
+researchCostMultiplier: 0.5

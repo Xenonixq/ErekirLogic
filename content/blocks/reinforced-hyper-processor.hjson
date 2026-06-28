@@ -1,0 +1,21 @@
+type: LogicBlock
+category: logic
+research: erekirlogic-reinforced-logic-processor
+  requirements: [
+    graphite/450
+    thorium/75
+    silicon/150
+    surge-alloy/50
+  ]
+consumes: {
+  liquid: {
+    liquid: nitrogen
+    amount: 0.08
+  }
+}
+instructionsPerTick: 25
+range: 336
+health: 520
+size: 3
+planet: erekir
+researchCostMultiplier: 0.5

@@ -1,0 +1,14 @@
+type: LogicBlock
+category: logic
+research: silicon-arc-furnace
+  requirements: [
+    beryllium/90
+    graphite/50
+    silicon/50
+  ]
+instructionsPerTick: 2
+range: 80
+health: 40
+size: 1
+planet: erekir
+researchCostMultiplier: 0.5

@@ -1,0 +1,15 @@
+type: LogicBlock
+category: logic
+research: erekirlogic-reinforced-switch
+  requirements: [
+    graphite/320
+    oxide/60
+    thorium/50
+    silicon/80
+  ]
+instructionsPerTick: 8
+range: 176
+health: 190
+size: 2
+planet: erekir
+researchCostMultiplier: 0.5

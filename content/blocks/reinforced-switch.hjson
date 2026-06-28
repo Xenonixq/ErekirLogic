@@ -1,0 +1,11 @@
+type: SwitchBlock
+category: logic
+research: erekirlogic-reinforced-micro-processor
+requirements: [
+  beryllium/5
+  graphite/5
+]
+health: 80
+size: 1
+planet: erekir
+researchCostMultiplier: 0.5

@@ -1,0 +1,14 @@
+type: MemoryBlock
+category: logic
+research: erekirlogic-reinforced-switch
+requirements: [
+  beryllium/30
+  graphite/30
+  silicon/30
+]
+memoryCapacity: 64
+squareSprite: false
+health: 40
+size: 1
+planet: erekir
+researchCostMultiplier: 0.5
