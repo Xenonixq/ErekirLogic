@@ -1,0 +1,3 @@
+*.hjson linguist-language=JSON linguist-vendored=false
+*.properties linguist-language=Text linguist-vendored=false
+*.png linguist-vendored=true
