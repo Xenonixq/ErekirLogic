@@ -1,0 +1,14 @@
+type: LogicDisplay
+size: 6
+displaySize: 176
+category: logic
+research: erekirlogic-reinforced-logic-display
+health: 1440
+requirements: [
+  graphite/200
+  silicon/150
+  tungsten/100
+  phase-fabric/75
+]
+planet: erekir
+researchCostMultiplier: 0.5
