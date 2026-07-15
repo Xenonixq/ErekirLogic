@@ -3,11 +3,11 @@ size: 6
 displaySize: 176
 category: logic
 research: erekirlogic-reinforced-logic-display
-health: 1440
+health: 1800
 requirements: [
   graphite/200
-  silicon/150
   tungsten/100
+  silicon/150
   phase-fabric/75
 ]
 planet: erekir

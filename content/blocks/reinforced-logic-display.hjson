@@ -6,8 +6,8 @@ research: erekirlogic-reinforced-switch
 health: 360
 requirements: [
   graphite/100
-  silicon/50
   tungsten/50
+  silicon/50
 ]
 planet: erekir
 researchCostMultiplier: 0.5

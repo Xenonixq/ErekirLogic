@@ -5,7 +5,7 @@ requirements: [
   beryllium/5
   graphite/5
 ]
-health: 80
+health: 40
 size: 1
 planet: erekir
 researchCostMultiplier: 0.5
